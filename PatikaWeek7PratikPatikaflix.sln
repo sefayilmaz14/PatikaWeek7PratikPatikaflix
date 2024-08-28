@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaWeek7PratikPatikaflix", "PatikaWeek7PratikPatikaflix\PatikaWeek7PratikPatikaflix.csproj", "{6E2118E0-9180-49FE-83AE-C21CF6F1F75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E2118E0-9180-49FE-83AE-C21CF6F1F75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2118E0-9180-49FE-83AE-C21CF6F1F75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2118E0-9180-49FE-83AE-C21CF6F1F75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2118E0-9180-49FE-83AE-C21CF6F1F75C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92428DE0-1F01-4FA9-A539-3AC24D3356CF}
+	EndGlobalSection
+EndGlobal
